@@ -1,4 +1,4 @@
 # IMPORTS
 
 # VARIABLES
-text = input("Enter text: ")
+text = input("Enter text: ").lower()
